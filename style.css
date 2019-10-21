@@ -1,0 +1,53 @@
+*{
+   background-color: black; 
+}
+.text{
+    margin: 40px;
+    font-size: 33px;
+    text-align: right;
+    width: 216px;
+    margin-left: 12px;
+}
+.main{
+    margin-left: 35%;
+    margin-top: 10%;
+}
+.mai {
+    color:white;
+    font-size: 32px;
+
+}
+.but1{
+    border-radius: 50px;
+    height: 60px;
+    width: 60px;
+    background-color: aliceblue; 
+    border: none;
+    font-size: 33px;
+}
+.but4{
+    border-radius: 50px;
+    height: 60px;
+    width: 60px;
+    background-color:rgb(245, 162, 39);
+    border: none;
+    color:white;
+    font-size: 33px;
+}
+.but5{
+    border-radius: 50px;
+    height: 60px;
+    width: 60px;
+    background-color:gray;
+    border: none;
+    color: white;
+    font-size: 33px;
+}
+.zero{
+   width: 150px;
+
+}
+
+button:focus{
+    outline:none; 
+} 
